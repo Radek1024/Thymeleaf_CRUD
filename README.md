@@ -4,5 +4,5 @@
   
 # WHAT I LEARNED
 
-* Using Thymeleaf i.e. accessing and using data from Model.
+* Using Thymeleaf i.e. accessing and using data.
 * Lombok annotations concerning constructors and other data.
